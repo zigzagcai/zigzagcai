@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 😄
 
-<!--
-**zigzagcai/zigzagcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Short Bio
 
-Here are some ideas to get you started:
+I am ***Zheng Cai***, nickname ***zigzagcai***, an ***AI Infra Engineer*** and ***Lifelong Learner***.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have general interest in (M)LLM pre/post-train and love to share my thoughts via blogs on zhihu: [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664), [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501).
+
+🥑 For now, I have personal interest in ***Agentic RL*** and ***Inference-Time Scaling***, and believe it will bring ***new paradiam shift***.
+
+🍓 For AI, I believe that ***more is different*** and ***intelligence emerges from complexity***, and like the ideas behind [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html).
+
+🍒 For Infra, I love to build ***practical*** distributed systems that orchestrate ***computation/communication/caching*** to scale up and scale out better, and believe in the ideas behind [The Hardware Lottery](https://cacm.acm.org/research/the-hardware-lottery/).
+
+So, what I try to do is to build a bridge between various accelerators and large models, with the hope of achieving ***efficient system-model co-design*** in the ***new AI paradiam*** (Self-Evolving Agentic AI Systems).
+
+### My Thinking
+
+I love the general idea of open source (code/knowledge/and others) and love to learn from open source community and try my best to contribute back.
+
+Selected thoughts I have ever shared or developed:
+
+1) CPU memory optimization when using PyTorch Dataloader over very large-scale datasets: https://github.com/pytorch/pytorch/issues/13246#issuecomment-2264647131
+2) Analysis of numerical stability between Ring and Tree All-Reduce: https://github.com/NVIDIA/nccl/issues/1055
+3) Implement variable-length training with Mamba State Space Models: https://github.com/state-spaces/mamba/pull/244
+4) Avoid deadlock when training with ColossalAI over very large-scale GPU clusters: https://github.com/hpcaitech/ColossalAI/pull/5625
+5) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3
+6) Support nogil feature in NumPy-1.18.5 in the experimental CPython ecosystem: https://github.com/colesbury/numpy/commit/0d6ef2770268711ee6417792ba0da35fcb264bf5
