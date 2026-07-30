@@ -2,17 +2,9 @@
 
 ### Short Bio
 
-I am ***Zheng Cai***, nickname ***zigzagcai***, an ***AI Infra Engineer*** and ***Lifelong Learner***.
+I am ***Zheng Cai***, nickname ***zigzagcai***, an ***AI Infra Engineer***.
 
-I have general interest in (M)LLM pre/post-train and love to share my thoughts via blogs on zhihu: [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664), [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501).
-
-🥑 For now, I have personal interest in ***Agentic RL*** and ***Inference-Time Scaling***, and believe it will bring ***new paradiam shift***.
-
-🍓 For AI, I believe that ***more is different*** and ***intelligence emerges from complexity***, and like the ideas behind [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html).
-
-🍒 For Infra, I love to build ***practical*** distributed systems that orchestrate ***computation/communication/caching*** to scale up and scale out better, and believe in the ideas behind [The Hardware Lottery](https://cacm.acm.org/research/the-hardware-lottery/).
-
-So, what I try to do is to build a bridge between various accelerators and large models, with the hope of achieving ***efficient system-model co-design*** in the ***new AI paradiam*** (Self-Evolving Agentic AI Systems).
+I work on (M)LLM pre/post-train and love to share my thoughts via blogs on zhihu: [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664), [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501).
 
 ### My Thinking
 
