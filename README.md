@@ -2,19 +2,19 @@
 
 ### Short Bio
 
-I am ***Zheng Cai***, nickname ***zigzagcai***, an AI Infra engineer, working on ***(M)LLM pre/post-train*** and ***automatic kernel optimization***.
+I am ***Zheng Cai***, nickname ***zigzagcai***, working on ***(M)LLM pre/post-train*** and ***Automatic Kernel Optimization***.
 
 ### My Thinking
 
 I love the general idea of open source (code/knowledge/and others) and love to learn from open source community and try my best to contribute back.
 
-Selected thoughts I have ever shared or developed:
+Selected thoughts I have ever written:
 
-1) CPU memory optimization when using PyTorch Dataloader over very large-scale datasets: https://github.com/pytorch/pytorch/issues/13246#issuecomment-2264647131
-2) Analysis of numerical stability between Ring and Tree All-Reduce: https://github.com/NVIDIA/nccl/issues/1055
-3) Implement variable-length training with Mamba State Space Models: https://github.com/state-spaces/mamba/pull/244
-4) Avoid deadlock when training with ColossalAI over very large-scale GPU clusters: https://github.com/hpcaitech/ColossalAI/pull/5625
-5) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3
-6) Support nogil feature in NumPy-1.18.5 in the experimental CPython ecosystem: https://github.com/colesbury/numpy/commit/0d6ef2770268711ee6417792ba0da35fcb264bf5
-7) [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664)
-8) [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501)
+1) CPU memory optimization when using PyTorch Dataloader over very large-scale datasets: https://github.com/pytorch/pytorch/issues/13246#issuecomment-2264647131 — 2024/08
+2) Analysis of numerical stability between Ring and Tree All-Reduce: https://github.com/NVIDIA/nccl/issues/1055 - 2023/11
+3) Implement variable-length training with Mamba State Space Models: https://github.com/state-spaces/mamba/pull/244 - 2024/03
+4) Avoid deadlock when training with ColossalAI over very large-scale GPU clusters: https://github.com/hpcaitech/ColossalAI/pull/5625 - 2024/04
+5) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3 - 2025/04
+6) Support nogil feature in NumPy-1.18.5 in the experimental CPython ecosystem: https://github.com/colesbury/numpy/commit/0d6ef2770268711ee6417792ba0da35fcb264bf5 - 2022/07
+7) [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664) - 2024/08
+8) [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501) - 2024/08
