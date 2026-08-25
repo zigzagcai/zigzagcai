@@ -16,5 +16,5 @@ Selected thoughts I have ever written:
 4) Avoid deadlock when training with ColossalAI over very large-scale GPU clusters: https://github.com/hpcaitech/ColossalAI/pull/5625 - 2024/04
 5) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3 - 2025/04
 6) Support nogil feature in NumPy-1.18.5 in the experimental CPython ecosystem: https://github.com/colesbury/numpy/commit/0d6ef2770268711ee6417792ba0da35fcb264bf5 - 2022/07
-7) [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664) - 2024/08
+7) [由A800平台训练InternLM-7B无法收敛引发的思考](https://zhuanlan.zhihu.com/p/701623664) - 2023/11
 8) [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501) - 2024/08
