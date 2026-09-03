@@ -10,7 +10,7 @@ I love the general idea of open source (code/knowledge/and others) and love to l
 
 Selected code/thinking I have ever shared:
 
-1) Qwen4Exp vLLM inference optimization via end-to-end automatic framework and kernel optimization (powered by [loopx](https://github.com/huangruiteng/loopx) harness, the best harness framework I think, which I also contribute [some code](https://github.com/huangruiteng/loopx/pull/3674) to loopx by loopx itself): https://github.com/vllm-project/vllm/pull/54560 - 2026/09
+1) Qwen4Exp vLLM inference optimization via end-to-end automatic framework and kernel optimization (powered by [loopx](https://github.com/huangruiteng/loopx) harness, the best harness framework I think, which I also contribute [some code](https://github.com/huangruiteng/loopx/pull/3674) by loopx itself): https://github.com/vllm-project/vllm/pull/54560 - 2026/09
 2) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3 - 2025/04
 3) CPU memory optimization when using PyTorch Dataloader over very large-scale datasets: https://github.com/pytorch/pytorch/issues/13246#issuecomment-2264647131 — 2024/08
 4) zhihu blog [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501) - 2024/08
