@@ -2,7 +2,7 @@
 
 ### Short Bio
 
-I am ***Zheng Cai***, nickname ***zigzagcai***, and AI Infra engineer, working on ***(M)LLM pre/post-train*** and ***Automatic Kernel/Framework Optimization***.
+I am ***Zheng Cai***, nickname ***zigzagcai***, and AI Infra engineer, working on ***(M)LLM pre/post-train*** and ***Automatic kernel/framework optimization***.
 
 ### My Thinking
 
