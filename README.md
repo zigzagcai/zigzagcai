@@ -10,7 +10,7 @@ I love the general idea of open source (code/knowledge/and others) and love to l
 
 Selected code/thinking I have ever shared:
 
-1) Highly-efficient sequence parallelism for DSA-attention models, delivering 32%~67% throughput improvement in 1M long context vLLM inference(e.g., GLM-5.3-Flash/DeepSeek-V4-Flash-0731): https://github.com/vllm-project/vllm/pull/54951 - 2026/09
+1) Highly-performance sequence parallelism for DSA-attention models, delivering 25%~40% TTFT reduction in 1M long context vLLM inference(e.g., GLM-5.3-Flash/DeepSeek-V4-Flash-0731): https://github.com/vllm-project/vllm/pull/54951 - 2026/09
 2) DeepSeek V3 671B trainable with FSDP+EP by hacking two lines of PyTorch FSDP codes: https://github.com/zigzagcai/DeepSeekV3 - 2025/04
 3) CPU memory optimization when using PyTorch Dataloader over very large-scale datasets: https://github.com/pytorch/pytorch/issues/13246#issuecomment-2264647131 — 2024/08
 4) zhihu blog [支持变长序列的Mamba-1训练](https://zhuanlan.zhihu.com/p/714231501) - 2024/08
